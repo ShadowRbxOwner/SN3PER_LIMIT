@@ -1,4 +1,5 @@
 JOIN DISCORD SERVER: https://discord.com/invite/toolerzp
+
 ✅A bot that buys limited items at low cost with flexible customization✅
 
 ✅Functions:
