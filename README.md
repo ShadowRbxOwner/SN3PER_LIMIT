@@ -1,7 +1,7 @@
 JOIN DISCORD SERVER: https://discord.com/invite/toolerzp
 
 ✅A bot that buys limited items at low cost with flexible customization✅
-
+Password: RBXTOOLS
 ✅Functions:
 1) Snipe of all the limited
 2) Snipe of certain limited
